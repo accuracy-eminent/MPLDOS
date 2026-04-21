@@ -38,4 +38,3 @@ I want to create this OS to:
 
 ## Out of scope
 - Binary compatibility with CP/M
-- 
