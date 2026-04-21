@@ -30,7 +30,7 @@ I want to create this OS to:
 - Transient commands: STAT, PIP, ED, DUMP
 
 ## Future scope
-= 6502, AVR platforms
+- 6502, AVR platforms
 - Compatibility with CP/M 2.2 API
 - Transient commands: ASM, DDT, SYSGEN, SUBMIT
 - MS-DOS commands: PAUSE, COMP, SORT
