@@ -59,7 +59,18 @@ BDOS
 - F_SIZE
 - F_RANDREC
 - DRV_RESET
+- Filesystem
+  - Directory
+  - FCB parsing
 
 CCP
+- Load programs into TPA
+- Built in commands
+
+Transient commands
+- PIP
 
 Glue code
+- Boot sector
+- Boot loader
+- ABI for BIOS and BDOS
